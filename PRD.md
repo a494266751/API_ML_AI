@@ -31,7 +31,7 @@
   ![草稿](还没有...)
   
 ## 调用-百度动物识别API
-```html
+```python
 # encoding:utf-8
 import base64
 import urllib
