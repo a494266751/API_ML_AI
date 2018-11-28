@@ -31,7 +31,8 @@
   ![草稿](还没有...)
   
 ## 百度动物识别API
-  # encoding:utf-8
+```html
+# encoding:utf-8
 import base64
 import urllib
 import urllib2
@@ -58,6 +59,7 @@ content = response.read()
 if content:
     print content
 
+```html
 ## 问题
 | 问题 | 结果 |
 | --------   | -----:  |
