@@ -30,7 +30,7 @@
 ## 使用者交互及设计
   ![草稿](还没有...)
   
-## 百度动物识别API
+## 调用-百度动物识别API
 ```html
 # encoding:utf-8
 import base64
@@ -58,8 +58,8 @@ response = urllib2.urlopen(request)
 content = response.read()
 if content:
     print content
+```
 
-```html
 ## 问题
 | 问题 | 结果 |
 | --------   | -----:  |
