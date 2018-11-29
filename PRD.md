@@ -28,7 +28,13 @@
 | 3 | 商城功能 | 用户进入商城的界面，会展示出推荐系统推荐的各类动物的食物及相关饰物、玩偶等等商品  | 重要 | 推荐系统智能筛选商品，可以增加收入，篇幅不易过多 |
  
 ## 使用者交互及设计
-  ![启动页](http://i2.bvimg.com/670314/aba62d6be953e415.png)【启动页】
+  ![启动页](http://i2.bvimg.com/670314/aba62d6be953e415.png)
+  ![首页](http://i2.bvimg.com/670314/bef00476de887817.png)
+  ![科普页](http://i2.bvimg.com/670314/2ea1cb1144453c91.png)
+  ![拍照页+加载相片页](http://i2.bvimg.com/670314/203b4d86ff3ddf76.png)
+  ![相片结果页](http://i2.bvimg.com/670314/c0c93f694df677ba.png)
+  ![商城页](http://i2.bvimg.com/670314/59e327afbc67023e.png)
+  ![个人中心页](http://i2.bvimg.com/670314/2b65fe545d129dbe.png)
   
 ## 调用-百度动物识别API
 ```python
