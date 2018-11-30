@@ -36,7 +36,7 @@
 
   ![个人中心页](http://i2.bvimg.com/670314/5147e518eb13419c.png)
   
-## 调用-百度动物识别API
+## 调用-百度动物识别API（Python）
 ```python
 # encoding:utf-8
 import base64
