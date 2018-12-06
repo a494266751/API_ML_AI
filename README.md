@@ -37,7 +37,7 @@
 
   ![相片结果页](http://i2.bvimg.com/670314/c0c93f694df677ba.png)  ![商城页](http://i2.bvimg.com/670314/1b8587b499e5bd10.png)
 
-  ![个人中心页](http://i2.bvimg.com/670314/5147e518eb13419c.png)
+  ![个人中心页](http://img.027cgb.com/612104/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E9%A1%B5.png)
   
 ## 调用-百度动物识别API（Python）
 ```python
