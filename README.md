@@ -29,7 +29,7 @@
 | 3 | 商城 | 用户进入商城的界面，会展示出推荐系统筛选的各类动物的食物及相关饰物、玩偶等等商品  | 重要 | 推荐系统智能筛选商品，可以增加收入，篇幅不易过多 |
  
 ## 使用者交互及设计
-  ![qidong](http://github.com/a494266751/API_ML_AI/raw/master/IMG/qidong.png)  ![首页](http://i2.bvimg.com/670314/bef00476de887817.png)
+  ![qidong](https://github.com/a494266751/API_ML_AI/blob/master/img/qidong.png)  ![首页](http://i2.bvimg.com/670314/bef00476de887817.png)
 
   ![科普页](http://i2.bvimg.com/670314/5089e80bcdad0238.png)  ![拍照页](http://i2.bvimg.com/670314/fc1c76572a890f6e.png)
   
