@@ -32,6 +32,8 @@
   ![启动页](http://i2.bvimg.com/670314/aba62d6be953e415.png)  ![首页](http://i2.bvimg.com/670314/bef00476de887817.png)
 
   ![科普页](http://i2.bvimg.com/670314/5089e80bcdad0238.png)  ![拍照页](http://i2.bvimg.com/670314/fc1c76572a890f6e.png)
+  
+  
 
   ![相片结果页](http://i2.bvimg.com/670314/c0c93f694df677ba.png)  ![商城页](http://i2.bvimg.com/670314/1b8587b499e5bd10.png)
 
