@@ -29,15 +29,13 @@
 | 3 | 商城 | 用户进入商城的界面，会展示出推荐系统筛选的各类动物的食物及相关饰物、玩偶等等商品  | 重要 | 推荐系统智能筛选商品，可以增加收入，篇幅不易过多 |
  
 ## 使用者交互及设计
-  ![qidong](https://github.com/a494266751/API_ML_AI/blob/master/img/qidong.png)  ![首页](http://i2.bvimg.com/670314/bef00476de887817.png)
-
-  ![科普页](http://i2.bvimg.com/670314/5089e80bcdad0238.png)  ![拍照页](http://i2.bvimg.com/670314/fc1c76572a890f6e.png)
-  
-  
-
-  ![相片结果页](http://i2.bvimg.com/670314/c0c93f694df677ba.png)  ![商城页](http://i2.bvimg.com/670314/1b8587b499e5bd10.png)
-
-  ![个人中心页](http://img.027cgb.com/612104/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E9%A1%B5.png)
+  ![qidong](https://github.com/a494266751/API_ML_AI/blob/master/img/qidong.png)  
+  ![首页](https://github.com/a494266751/API_ML_AI/blob/master/img/shouye.png)
+  ![科普页](https://github.com/a494266751/API_ML_AI/blob/master/img/kepu.png) 
+  ![拍照页](https://github.com/a494266751/API_ML_AI/blob/master/img/paizhao.png)
+  ![相片结果页](https://github.com/a494266751/API_ML_AI/blob/master/img/jieguo.png) 
+  ![商城页](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
+  ![个人中心页](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
   
 ## 调用-百度动物识别API（Python）
 ```python
