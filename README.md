@@ -21,6 +21,9 @@
 > * 该产品是一个手机端的产品，支持手机的Ios及Android系统。
 > * 产品功能完善，是电商类APP与科普类APP的结合。
 
+## 人工智能概率性
+  在图像识别及推荐系统上难免出现失败情况，在拍照进行动物识别阶段失败时，则给用户诙谐的反馈或是推荐类似的内容。
+
 ## 需求列表
 | # | 标题 | 用户案例 | 重要程度 | 笔记 |
 | --------   | -----| ----  |--------   |-----:  |
@@ -37,7 +40,7 @@
   ![商城页](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
   ![个人中心页](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
   
-## 调用-百度动物识别API（Python）
+## 调用-百度动物识别API（Python）----是市面上成熟、精确的API
 ```python
 # encoding:utf-8
 import base64
