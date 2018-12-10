@@ -40,7 +40,7 @@
   ![商城页](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
   ![个人中心页](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
   
-## 调用-百度动物识别API（Python）----是市面上较为成熟、性价比高的API
+## 调用-百度动物识别API（Python）----是市面上较为成熟、性价比高的API，且在未来很长一段时间也不会被淘汰。
 ```python
 # encoding:utf-8
 import base64
