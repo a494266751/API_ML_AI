@@ -40,7 +40,8 @@
   ![商城页](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
   ![个人中心页](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
   
-## 调用-百度动物识别API（Python）----与阿里云动物识别API相比，它是市面上较为成熟、性价比高、风险最低的API，且在未来很长一段时间也不会被淘汰。
+## 百度动物识别API----与阿里云动物识别API相比，它是市面上较为成熟、性价比高、风险最低的API，且在未来很长一段时间也不会被淘汰。
+### 调用-输入
 ```python
 # encoding:utf-8
 import base64
@@ -68,6 +69,70 @@ response = urllib2.urlopen(request)
 content = response.read()
 if content:
     print content
+```
+### 输出示例1
+```python
+{
+	"log_id": "2263509406437707505",
+	"result": [
+		{
+			"score": "0.889358",
+			"name": "树蛙"
+		},
+		{
+			"score": "0.094757",
+			"name": "黑斑蛙"
+		},
+		{
+			"score": "0.00408554",
+			"name": "雨蛙"
+		},
+		{
+			"score": "0.00126177",
+			"name": "透明蛙"
+		},
+		{
+			"score": "0.0011275",
+			"name": "中国树蟾"
+		},
+		{
+			"score": "0.000680254",
+			"name": "叶泡蛙"
+		}
+	]
+}
+```
+### 输出示例2
+```python
+{
+	"log_id": "1741997856661545235",
+	"result": [
+		{
+			"score": "0.98988",
+			"name": "红鹳"
+		},
+		{
+			"score": "0.00591688",
+			"name": "红鹤"
+		},
+		{
+			"score": "0.00151545",
+			"name": "加勒比海红鹳"
+		},
+		{
+			"score": "0.000863866",
+			"name": "小红鹳"
+		},
+		{
+			"score": "0.000146806",
+			"name": "安第斯火烈鸟"
+		},
+		{
+			"score": "9.12251e-05",
+			"name": "美洲红鹮"
+		}
+	]
+}
 ```
 
 ## 问题（用户痛点）
