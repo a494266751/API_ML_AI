@@ -38,8 +38,7 @@
 | 2 | 科普 | 用户进入科普的界面，会展示出推荐系统筛选的各类、各种及各样的动物资料  | 极其重要 | 核心功能，推荐系统智能筛选内容，也适合小孩子使用该产品 |
 | 3 | 商城 | 用户进入商城的界面，会展示出推荐系统筛选的各类动物的食物及相关饰物、玩偶等等商品  | 重要 | 推荐系统智能筛选商品，可以增加收入，篇幅不易过多 |
  
-## 使用者交互及设计
-（https://a494266751.github.io/yuanxing）
+## 使用者交互及设计（https://a494266751.github.io/yuanxing)
   ![qidong](https://github.com/a494266751/API_ML_AI/blob/master/img/qidong.png)  
   ![首页](https://github.com/a494266751/API_ML_AI/blob/master/img/shouye.png)
   ![科普页](https://github.com/a494266751/API_ML_AI/blob/master/img/kepu.png) 
