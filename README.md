@@ -48,7 +48,7 @@
   ![商城页](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
   ![个人中心页](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
   
-## 百度动物识别API----百度是市面上专门做动物识别API的龙头公司之一。与腾讯、阿里云相比，此API是市面上较为成熟、性价比高（参见下面两图）、风险最低的API，且在未来很长一段时间也不会被淘汰。
+## 百度动物识别API----百度有专门做关于图像识别的动物识别API。如腾讯、阿里都没有专门的动物识别API，且此API是市面上较为成熟、性价比高（参见下面两图）、风险最低的API，且在未来很长一段时间也不会被淘汰。
 ![特点表](https://github.com/a494266751/API_ML_AI/blob/master/img/tedian.png)
 ![价格表头](https://github.com/a494266751/API_ML_AI/blob/master/img/jiagetou.png)
 ![价格表](https://github.com/a494266751/API_ML_AI/blob/master/img/jiage.png)
