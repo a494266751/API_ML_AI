@@ -44,7 +44,7 @@
   ![科普页](https://github.com/a494266751/API_ML_AI/blob/master/img/kepu.png) 
   ![拍照页](https://github.com/a494266751/API_ML_AI/blob/master/img/paizhao.png)
   ![相片结果页](https://github.com/a494266751/API_ML_AI/blob/master/img/xinjieguo.png)
-  ![识别失败页]（https://github.com/a494266751/API_ML_AI/blob/master/img/shibieshibai.PNG)
+  ![识别失败页](https://github.com/a494266751/API_ML_AI/blob/master/img/shibieshibai.png)
   ![结果点击页](https://github.com/a494266751/API_ML_AI/blob/master/img/jieguo.png) 
   ![商城页](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
   ![个人中心页](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
