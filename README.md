@@ -39,15 +39,15 @@
 | 3 | 商城 | 用户进入商城的界面，会展示出推荐系统筛选的各类动物的食物及相关饰物、玩偶等等商品  | 重要 | 推荐系统智能筛选商品，可以增加收入，篇幅不易过多 |
  
 ## 使用者交互及设计（https://a494266751.github.io/yuanxing/)
-  ![qidong](https://github.com/a494266751/API_ML_AI/blob/master/img/qidong.png)  
+  ![启动](https://github.com/a494266751/API_ML_AI/blob/master/img/qidong.png)  
   ![首页](https://github.com/a494266751/API_ML_AI/blob/master/img/shouye.png)
-  ![科普页](https://github.com/a494266751/API_ML_AI/blob/master/img/kepu.png) 
-  ![拍照页](https://github.com/a494266751/API_ML_AI/blob/master/img/paizhao.png)
-  ![相片结果页](https://github.com/a494266751/API_ML_AI/blob/master/img/xinjieguo.png)
-  ![识别失败页](https://github.com/a494266751/API_ML_AI/blob/master/img/shibieshibai.png)
-  ![结果点击页](https://github.com/a494266751/API_ML_AI/blob/master/img/jieguo.png) 
-  ![商城页](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
-  ![个人中心页](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
+  ![科普](https://github.com/a494266751/API_ML_AI/blob/master/img/kepu.png) 
+  ![拍照](https://github.com/a494266751/API_ML_AI/blob/master/img/paizhao.png)
+  ![相片结果](https://github.com/a494266751/API_ML_AI/blob/master/img/xinjieguo.png)
+  ![识别失败](https://github.com/a494266751/API_ML_AI/blob/master/img/shibieshibai.png)
+  ![结果点击](https://github.com/a494266751/API_ML_AI/blob/master/img/jieguo.png) 
+  ![商城](https://github.com/a494266751/API_ML_AI/blob/master/img/shangchen.png)
+  ![个人中心](https://github.com/a494266751/API_ML_AI/blob/master/img/gerenzhongxin.png)
   
 ## 百度动物识别API----百度有专门做关于图像识别的动物识别API。如腾讯、阿里都没有专门的动物识别API，且此API是市面上较为成熟、性价比高（参见下面两图）、风险最低的API，且在未来很长一段时间也不会被淘汰。
 ![特点表](https://github.com/a494266751/API_ML_AI/blob/master/img/tedian.png)
